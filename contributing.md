@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Each section represents a focus area / platform and nested underneath it should be the following proposed structure: (subject to ammendment by contribution)
+- Each section represents a focus area / competence and nested underneath it should be the following proposed structure: (subject to ammendment by contribution)
   - Resources
     - Articles
     - Videos
