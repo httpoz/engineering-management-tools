@@ -5,7 +5,6 @@ A curated list of anything remotely related to engineering management, grouped i
 
 ## Contents
 
-- [Section](#section)
 - [Contribute](#contribute)
 
 ## Contribute
