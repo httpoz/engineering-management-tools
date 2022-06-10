@@ -12,4 +12,4 @@ If you transitioning into Engineering Management or you are stuck figuring thing
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](.github/contributing.md) first.
