@@ -10,4 +10,4 @@ In order to build on the right Incident Management strategy, we need to analyse 
 ### Videos
 
 ## Implementation Recommendations
-- [Incident Review Template](files/ir-template-chronomics.md) - A lean Incident Review template by Luis Andani (Global VP of Engineering at Chronomics)
+- [Incident Review Template](files/ir-template-chronomics.md) - A lean Incident Review template by Luis Andani (Global VP of Engineering)
