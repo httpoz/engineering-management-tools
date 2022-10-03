@@ -18,4 +18,4 @@ In order to build on the right Incident Management strategy, we need to analyse 
 
 ## Implementation Recommendations
 
-- [Incident Review Template](files/ir-template-example-1.md) - A lean Incident Review template by Luis Andani (Global VP of Engineering)
+- [Incident Review Template](ir-template-example-1.md) - A lean Incident Review template by Luis Andani (Global VP of Engineering)
