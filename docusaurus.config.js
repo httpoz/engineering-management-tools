@@ -6,14 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Awesome Engineering Leadership',
+  tagline: 'Walk with me as I explore the world of engineering leadership',
+  url: 'https://httpoz.github.io',
+  baseUrl: '/awesome-engineering-leadership/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
   organizationName: 'httpoz',
   projectName: 'awesome-engineering-leadership',
 
