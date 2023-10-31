@@ -9,12 +9,12 @@ const config = {
   title: 'Awesome Engineering Leadership',
   tagline: 'Walk with me as I explore the world of engineering leadership',
   url: 'https://httpoz.github.io',
-  baseUrl: '/awesome-engineering-leadership/',
+  baseUrl: '/engineering-management-tools/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'httpoz',
-  projectName: 'awesome-engineering-leadership',
+  projectName: 'engineering-management-tools',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -34,7 +34,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/httpoz/awesome-engineering-leadership/tree/main/',
+            'https://github.com/httpoz/engineering-management-tools/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,7 +60,7 @@ const config = {
             label: 'Collections',
           },
           {
-            href: 'https://github.com/httpoz/awesome-engineering-leadership',
+            href: 'https://github.com/httpoz/engineering-management-tools',
             label: 'GitHub',
             position: 'right',
           },
