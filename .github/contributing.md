@@ -20,7 +20,7 @@ Ensure your pull request adheres to the following guidelines heavily inspired by
 
 Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
-No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/httpoz/awesome-engineering-leadership/tree/main/.github/workflows).
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/httpoz/engineering-management-tools/tree/main/.github/workflows).
 
 To run the linter locally, do:
 
@@ -36,6 +36,7 @@ Additional rules not covered by `awesome-lint`, to keep the content clean and ti
 If one of these rule conflict with the linter, the linter's rule should takes precedence. Apply it.
 
 ### General content
+
 - Remove any trailing whitespaces.
 - Use spaces, no tabs, for indention.
 - Apostrophes should be using the single ASCII mark: `'`.
@@ -47,8 +48,6 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 - URL must use HTTPs protocol if available.
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 - To quote, use either the single or double variations: `'` and `"`. Keep them properly balanced.
-
-
 
 ## Updating your PR
 
